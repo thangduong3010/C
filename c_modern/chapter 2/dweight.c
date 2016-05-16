@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-    int height, weight, width, length, volume;
+    int height, width, length;
 
     printf("Enter height of box: ");
     scanf("%d", &height);
@@ -9,12 +9,10 @@ int main(void) {
     scanf("%d", &length);
     printf("Enter width of box: ");
     scanf("%d", &width);
-    volume = height * length * width;
-    weight = (volume + 165) / 166;
 
     printf("Dimensions: %dx%dx%d\n", height, length, width);
-    printf("Volume (cubic inches): %d\n", volume);
-    printf("Dimensional weight (pounds): %d\n", weight);
+    printf("Volume (cubic inches): %d\n", height * length * width);
+    printf("Dimensional weight (pounds): %d\n", ((height * length * width) + 165) / 166);
 
     return 0;
 }
