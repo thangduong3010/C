@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/chapter 3/dummy.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 3/tprintf.o" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 3/dummy.exe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 3/tprintf.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 3/ex4.exe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 3/tprintf.exe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 3/ex2.exe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 3/ex1.exe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 3/ex3.exe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 3/ex1.o" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 3/ex2.o" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 3/ex3.o" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 3/ex4.o" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 3/dummy.o" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 3/ex1.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 3/ex2.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 3/ex3.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 3/ex4.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 2/ex5.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 2/ex7.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 2/dummy1.exe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 2/dweight.exe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 2/dummy1.o" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 2/ex7.exe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 2/celsius.o" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 2/ex5.exe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 2/dweight.o" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 2/ex3.exe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 2/Ex2.exe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 2/ex1.exe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 2/celsius.exe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 2/dummy1.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 2/ex1.o" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 2/celsius.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 2/ex3.o" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 2/dweight.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 2/ex5.o" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 2/Ex2.o" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 2/ex7.o" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 2/ex1.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 2/Ex2.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter 2/ex3.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dummy.cpp" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file://G:/CodeBlocks/MinGW/lib/gcc/mingw32/4.7.1/include" />
+          <root url="file://G:/CodeBlocks/MinGW/lib/gcc/mingw32/4.7.1/include-fixed" />
+          <root url="file://G:/CodeBlocks/MinGW/include" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://G:/CodeBlocks/MinGW/lib/gcc/mingw32/4.7.1/include" />
+          <root url="file://G:/CodeBlocks/MinGW/lib/gcc/mingw32/4.7.1/include-fixed" />
+          <root url="file://G:/CodeBlocks/MinGW/include" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
