@@ -3,6 +3,7 @@ project(c_modern)
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
 
+set(BUILD_1 main)
 set(SOURCE_FILES
     "chapter 2/celsius.c"
     "chapter 2/celsius.exe"
